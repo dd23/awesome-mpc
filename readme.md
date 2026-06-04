@@ -150,7 +150,7 @@ The software in this category has either been declared retired by the creators (
 - [Tasty](https://github.com/encryptogroup/tasty) - 2PC with garbled circuits and homomorphic encryption | [2010/365](https://eprint.iacr.org/2010/365).
 - [TF Encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
 - [TinyLEGO](https://github.com/AarhusCrypto/TinyLEGO) - 2PC with garbled circuits; secure against malicious adversaries | eprint: [2015/309](http://eprint.iacr.org/2015/309).
-- [VIFF](http://viff.dk/) - 3+PC with secret sharing; secure against semi-honest adveraries.
+- [VIFF](https://github.com/mgeisler/viff) - 3+PC with secret sharing; secure against semi-honest adveraries | [PhD Dissertation](https://pure.au.dk/portal/da/publications/cryptographic-protocols-theory-and-implementation/).
 - [Wysteria](https://bitbucket.org/aseemr/wysteria/wiki/Home) - Multparty computation with GMW, written in a functional PL; secure against semi-honest adversaries | [S&P'14](http://www.cs.umd.edu/~aseem/wysteria.pdf).
 
 
